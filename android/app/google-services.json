@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261461892864",
+    "firebase_url": "https://ntusteptofithealthapp.firebaseio.com",
+    "project_id": "ntusteptofithealthapp",
+    "storage_bucket": "ntusteptofithealthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261461892864:android:23bc4443c38bf62660dde5",
+        "android_client_info": {
+          "package_name": "com.example.ntutepstofithealths_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261461892864-jkmn9prqrn8bc9hrog4eimmsnh2mf7qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHilf7xNsmyp7LPhImRyp7V0_AK5tXO0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261461892864-jkmn9prqrn8bc9hrog4eimmsnh2mf7qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
